@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Printful</string>
+    <string name="heroes">Heroes</string>
+    <string name="details">Details</string>
+</resources>
